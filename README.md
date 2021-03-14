@@ -17,7 +17,13 @@ This project contains function of calculate such sum,minus,multiply,divide,expon
 npm i
 ```
 
-## Testing
+## BDD Testing
+
+```
+npm run bddtest
+```
+
+## Unit Testing
 
 ```
 npm run test
@@ -30,7 +36,7 @@ npm run test -- --coverage
 ```
 
 ## Accessing Coverage
-Go to Directory: 
+Go to Directory: coverage -> Icov-report -> index.html
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
