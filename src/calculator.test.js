@@ -70,10 +70,10 @@ test('RPN [1,2,3,sum,minus] = -4', function() {
   expect(calculator.RPN(arr)).toBe(-4);
 });
 
-test('RPN [2,3,sum,3,minus,8,multiply,5,6,sum,sum] = 27', function() {
-  let arr = [2,3,calculator.sum,3,calculator.minus,8,calculator.multiply,5,6,calculator.sum,calculator.sum];
+test('RPN [2,3,sum,3,minus,8,multiply,5,6,sum,min] = 5', function() {
+  let arr = [2,3,calculator.sum,3,calculator.minus,8,calculator.multiply,5,6,calculator.sum,calculator.minus];
   
-  expect(calculator.RPN(arr)).toBe(27);
+  expect(calculator.RPN(arr)).toBe(5);
 });
 
 test('RPN ["10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+"] = 22', function() {

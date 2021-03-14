@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1615704486225" clover="3.2.0">
-  <project timestamp="1615704486225" name="All files">
+<coverage generated="1615706363830" clover="3.2.0">
+  <project timestamp="1615706363830" name="All files">
     <metrics statements="70" coveredstatements="70" conditionals="28" coveredconditionals="28" methods="12" coveredmethods="12" elements="110" coveredelements="110" complexity="0" loc="70" ncloc="70" packages="1" files="1" classes="1"/>
     <file name="calculator.js" path="/Users/arfan/Library/Mobile Documents/com~apple~CloudDocs/Documents/Labs/Random/calculator/src/calculator.js">
       <metrics statements="70" coveredstatements="70" conditionals="28" coveredconditionals="28" methods="12" coveredmethods="12"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="3" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
-      <line num="5" count="9" type="stmt"/>
+      <line num="5" count="10" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
       <line num="8" count="9" type="stmt"/>
       <line num="10" count="1" type="stmt"/>
-      <line num="11" count="25" type="stmt"/>
+      <line num="11" count="24" type="stmt"/>
       <line num="13" count="1" type="stmt"/>
       <line num="14" count="2" type="stmt"/>
       <line num="16" count="1" type="stmt"/>

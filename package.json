@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "bddtest": "node_modules/.bin/cucumber-js cucumber/"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0",
     "jest": "^26.6.3"
   },
   "jest": {
