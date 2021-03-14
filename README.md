@@ -4,7 +4,7 @@ Creator :
 1. Arfan Febriyanto (arfan.febriyanto@telkom.co.id / arfanabbii@gmail.com)
 2. Jejen Akrom (jejen.akrom@telkom.co.id / jensakrom@gmail.com)
 
-This project contains function of calculate such sum,minus,multiply,divide,exponential,percentage,factorial, and RPN calculate. It contains test using jest.
+This project contains function of calculate such sum,minus,multiply,divide,exponential,percentage,factorial, and RPN calculate. It contains bdd test using cucumber and unit test using jest.
 
 ## Requirement
 1. nodejs / npm
